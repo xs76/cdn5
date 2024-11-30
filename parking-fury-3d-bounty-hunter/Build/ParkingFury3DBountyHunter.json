@@ -1,0 +1,13 @@
+{
+"companyName": "VitalityGames",
+"productName": "Parking Fury 3D: Bounty Hunter",
+"dataUrl": "ParkingFury3DBountyHunter.data.unityweb?v=1",
+"wasmCodeUrl": "ParkingFury3DBountyHunter.wasm.code.unityweb?v=1",
+"wasmFrameworkUrl": "ParkingFury3DBountyHunter.wasm.framework.unityweb?v=1",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#141414",
+"cacheControl": {"default": "must-revalidate"}
+}
